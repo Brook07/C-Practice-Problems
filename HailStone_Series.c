@@ -13,7 +13,7 @@ int main() {
         return 1; // Exit the program if the input is invalid
     }
     
-    printf("Hailstone sequence starting from %d: ", num);
+    printf("Hailstone sequence starting from %d:\n ", num);
     
     // Print the first term (the input number)
     printf("%d\t", num);
