@@ -9,7 +9,7 @@ int power(int base, int exp) {
     }
     return result;
 }
-// Function to check whether a number is an Armstrong number
+// Function to check whether a number is an Armstrong Number
 int armstrong(int num) {
     int sum = 0, rem, digits = 0, temp = num;
 
